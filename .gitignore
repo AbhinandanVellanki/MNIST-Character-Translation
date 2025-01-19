@@ -1,0 +1,7 @@
+hw4_env/
+**/__pycache__/
+**/.DS_Store
+**.mat
+**.pth
+**/data/cifar-10-batches-py/*
+**/data/cifar-10-python.tar.gz
