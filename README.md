@@ -1,4 +1,5 @@
-# HW4 Deep Learning
+# Deep Learning
 
-### Solution PDF
+## Solution PDF
+
 [view pdf](Solution.pdf)
